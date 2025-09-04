@@ -35,6 +35,7 @@ With KLogic, you can:
 We maintain and contribute to projects in the Kafka ecosystem:
 
 - [**Awesome Kafka**](https://github.com/KLogicHQ/awesome-kafka) – A curated list of amazing Kafka resources.
+- [**kaf**](https://github.com/KLogicHQ/kaf) – A unified CLI tool for Kafka productivity.
 - (More coming soon 🚧)
 
 ---
