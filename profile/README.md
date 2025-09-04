@@ -1,4 +1,4 @@
-# KLogicHQ
+# KLogic
 
 > **AI-Powered Kafka Monitoring Platform**
 > Observability, automation, and intelligence for Apache Kafka.
@@ -7,7 +7,7 @@
 
 ## 🌐 About Us
 
-[KLogicHQ](https://github.com/KLogicHQ) builds the **next-generation monitoring and observability platform for Apache Kafka**.
+[KLogic](https://klogic.io) builds the **next-generation monitoring and observability platform for Apache Kafka**.
 We go beyond metrics — combining **dashboards, logs, anomaly detection, and AI-driven insights** to help teams run Kafka at scale with confidence.
 
 With KLogic, you can:
@@ -43,7 +43,7 @@ We maintain and contribute to projects in the Kafka ecosystem:
 
 - 🌍 Website: [klogic.io](https://klogic.io)
 - 🐦 Twitter: [@KLogicHQ](https://twitter.com/KLogicHQ)
-- 💼 LinkedIn: [KLogicHQ](https://linkedin.com/company/klogic)
+- 💼 LinkedIn: [KLogic](https://linkedin.com/company/klogic)
 
 ---
 
